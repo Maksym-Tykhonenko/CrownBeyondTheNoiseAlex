@@ -1,0 +1,17 @@
+export const crownBeyondTheNoiseNotes = [
+  'Silence is not rest.',
+  'Do not wait for clarity.',
+  'Five minutes are enough.',
+  'Nothing happening is expected.',
+  'Do not follow thoughts.',
+  'End the session even if it feels unfinished.',
+  'Do not repeat the same entry.',
+  'Silence works through repetition.',
+  'If nothing remains, record nothing.',
+  'Do not look for results.',
+  'Time passes whether you watch it or not.',
+  'The pause does not owe you insight.',
+  'Leave the session as it is.',
+  'What stays is enough.',
+  'Return tomorrow.',
+];
